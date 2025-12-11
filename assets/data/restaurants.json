@@ -1,0 +1,68 @@
+{
+  "restaurants": [
+    {
+      "id": "rest1",
+      "name": "Pizza Tower",
+      "zone": "Urban",
+      "rating": 4.6,
+      "cuisine": "Italian",
+      "menu": [
+        { "id": "m101", "name": "Pepperoni Pizza", "description": "Classic pepperoni with mozzarella cheese", "price": 499 },
+        { "id": "m102", "name": "Garlic Bread", "description": "Cheesy garlic bread with herbs", "price": 199 },
+        { "id": "m103", "name": "Margherita Pizza", "description": "Fresh tomatoes, mozzarella, basil", "price": 449 },
+        { "id": "m104", "name": "Caesar Salad", "description": "Romaine lettuce, croutons, parmesan", "price": 299 }
+      ]
+    },
+    {
+      "id": "rest2",
+      "name": "Bite Factory",
+      "zone": "Remote",
+      "rating": 3.9,
+      "cuisine": "Fast Food",
+      "menu": [
+        { "id": "m241", "name": "Smash Burger", "description": "Double patty burger with special sauce", "price": 299 },
+        { "id": "m242", "name": "Crispy Fries", "description": "Golden crispy french fries", "price": 149 },
+        { "id": "m243", "name": "Chicken Wings", "description": "Spicy buffalo wings with dip", "price": 349 }
+      ]
+    },
+    {
+      "id": "rest3",
+      "name": "Dragon Palace",
+      "zone": "Suburban",
+      "rating": 4.2,
+      "cuisine": "Chinese",
+      "menu": [
+        { "id": "m301", "name": "Fried Rice", "description": "Vegetable fried rice with soy sauce", "price": 249 },
+        { "id": "m302", "name": "Manchurian", "description": "Spicy vegetable balls in gravy", "price": 299 },
+        { "id": "m303", "name": "Spring Rolls", "description": "Crispy vegetable spring rolls", "price": 199 },
+        { "id": "m304", "name": "Noodles", "description": "Hakka noodles with vegetables", "price": 229 }
+      ]
+    },
+    {
+      "id": "rest4",
+      "name": "Spice Garden",
+      "zone": "Urban",
+      "rating": 4.8,
+      "cuisine": "Indian",
+      "menu": [
+        { "id": "m401", "name": "Butter Chicken", "description": "Tender chicken in creamy tomato gravy", "price": 449 },
+        { "id": "m402", "name": "Naan Bread", "description": "Soft and fluffy Indian bread", "price": 49 },
+        { "id": "m403", "name": "Biryani", "description": "Fragrant rice with spices and meat", "price": 399 },
+        { "id": "m404", "name": "Dal Makhani", "description": "Creamy black lentils with butter", "price": 299 }
+      ]
+    },
+    {
+      "id": "rest5",
+      "name": "Taco Fiesta",
+      "zone": "Suburban",
+      "rating": 4.3,
+      "cuisine": "Mexican",
+      "menu": [
+        { "id": "m501", "name": "Beef Tacos", "description": "Crispy tacos with seasoned beef", "price": 249 },
+        { "id": "m502", "name": "Quesadilla", "description": "Grilled cheese and chicken quesadilla", "price": 299 },
+        { "id": "m503", "name": "Nachos", "description": "Crispy nachos with cheese and salsa", "price": 199 },
+        { "id": "m504", "name": "Burrito Bowl", "description": "Rice, beans, meat, and toppings", "price": 349 }
+      ]
+    }
+  ]
+}
